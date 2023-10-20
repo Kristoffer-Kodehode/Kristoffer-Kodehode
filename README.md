@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there. I'm Kristoffer. 
+
+ - I'm currently learning about Back-end stuff, making a server with node.js and express. 
 
 <!--
 **Kristoffer-Kodehode/Kristoffer-Kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
