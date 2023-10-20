@@ -1,6 +1,14 @@
 ### Hi there. I'm Kristoffer. 
 
- - I'm currently learning about Back-end stuff, making a server with node.js and express. 
+ - Learning all I can about coding and programming, whether it's front-end or back-end, making websites or making programs, I want to learn. 
+ - I'm currently learning about Back-end stuff, making a server with node.js and express.
+
+### Stuff I've learned/what I feel I somewhat have a grasp of:
+ - HTML, CSS, JavaScript
+Stuff I've touched upon/what I feel I don't really know too well, but I've done a few things with:
+ - TypeScript, React, SQL, Node.js
+Stuff I've barely touched upon/stuff I've done none more than dip my toes into:
+ - Ruby, Python, C
 
 <!--
 **Kristoffer-Kodehode/Kristoffer-Kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
