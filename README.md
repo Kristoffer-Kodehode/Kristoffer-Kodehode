@@ -5,9 +5,9 @@
 
 ### Stuff I've learned/what I feel I somewhat have a grasp of:
  - HTML, CSS, JavaScript
-### Stuff I've touched upon/what I feel I don't really know too well, but I've done a few things with:
+### Stuff I've done a few things with:
  - TypeScript, React, SQL, Node.js
-### Stuff I've barely touched upon/stuff I've done none more than dip my toes into:
+### Stuff I've touched upon and want too learn more about:
  - Ruby, Python, C
 
 <!--
