@@ -1,26 +1,26 @@
-### Hi there. I'm Kristoffer. 
+<h2> Hei, mitt navn er Kristoffer, og jeg er en fersk utvikler. </h2>
 
- - Learning all I can about coding and programming, whether it's front-end or back-end, making websites or making programs, I want to learn. 
- - I'm currently learning about Back-end stuff, making a server with node.js and express.
+<img align="right" src="portrait.png" height="200" width="150">
 
-### Stuff I've learned/what I feel I somewhat have a grasp of:
- - HTML, CSS, JavaScript
-### Stuff I've done a few things with:
- - TypeScript, React, SQL, Node.js
-### Stuff I've touched upon and want too learn more about:
- - Ruby, Python, C
+Jeg har hatt stor interesse og lidenskap for både språk og datamaskiner siden jeg var liten. Jeg elsker å lære nye ting og det å få til noe nytt er min beste fremdriver.
 
-<!--
-**Kristoffer-Kodehode/Kristoffer-Kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--- I'm currently trying to figure out this readme business. ---> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Litt om meg:
+
+```javascript
+  const Kristoffer = {
+           class: "Novice",
+           species: "Human",
+           level: 28,
+           background: "Language", 
+           languages: ["Norwegian", "English", "Japanese"],
+           code: {
+                   using: ["HTML", "CSS", "Javascript"], 
+                   learning: ["Typescript", "React", "Node.js", "Python", "Ruby", "C"],
+                 }
+           hobbies: ["Games", "Language", "Japanese fiction", "Stories"], 
+          }
