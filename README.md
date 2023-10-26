@@ -21,6 +21,6 @@ Litt om meg:
            code: {
                    using: ["HTML", "CSS", "Javascript"], 
                    learning: ["Typescript", "React", "Node.js", "Python", "Ruby", "C"],
-                 }
+                 }, 
            hobbies: ["Games", "Language", "Japanese fiction", "Stories"], 
           }
