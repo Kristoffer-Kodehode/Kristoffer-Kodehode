@@ -1,6 +1,6 @@
 <h2> Hei, mitt navn er Kristoffer, og jeg er en fersk utvikler. </h2>
 
-<img align="right" src="Portrait.png" height="200" width="150">
+<img align="right" src="Portrait.png" height="200" width="175">
 
 Jeg har hatt stor interesse og lidenskap for både språk og datamaskiner siden jeg var liten. Jeg elsker å lære nye ting og det å få til noe nytt er min beste fremdriver.
 
