@@ -9,7 +9,6 @@ Jeg liker å lage ting som gjør noe, om det er en server, et vanlig program ell
 
 <hr>
 
-Litt om meg:
 
 ```javascript
   const Kristoffer = {
