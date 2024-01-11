@@ -20,7 +20,7 @@ Jeg er også veldig glad i å lære nye ting og lærer gjerne hva som helst.
            languages: ["Norwegian", "English", "Japanese"],
            code: {
                    using: ["HTML", "CSS", "Javascript", "Node.js"], 
-                   learning: ["Typescript", "React", "Python", "Ruby", "C"],
+                   learning: ["Typescript", "React", "Python", "Ruby", "C", "C++"],
                  }, 
            hobbies: ["Games", "Language", "Japanese fiction", "Stories"], 
           }
